@@ -1,4 +1,4 @@
-# Renton Technical College CSI-244
+# Renton Technical College CSI-234
 <br />    
 
 <div align="center">  
@@ -6,7 +6,7 @@
     <h3 align="center">Weekly Example Code</h3>
 </div>
 
-This repository is a part of CSI-244 at Renton Technical College. This repo will be updated after each class with example code from the lectures.
+This repository is a part of CSI-234 at Renton Technical College. This repo will be updated after each class with example code from the lectures.
 
 ## How to access the example code
 
